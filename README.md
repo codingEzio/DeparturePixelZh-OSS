@@ -8,7 +8,9 @@
 
 English and Chinese pixel glyphs in one monospaced font. Latin characters use one cell; full-width Chinese characters use two. Developer icons are included. Color emoji use the system font.
 
-Prebuilt fonts are not published with this source. Redistribution of included icons remains under review; see [NOTICE.md](NOTICE.md).
+[Desktop TTF](https://github.com/codingEzio/DeparturePixelZh-OSS/releases/download/v0.1.1/DeparturePixelZh-0.1.1-desktop.zip) · [Web WOFF2](https://github.com/codingEzio/DeparturePixelZh-OSS/releases/download/v0.1.1/DeparturePixelZh-0.1.1-web.zip) · [All releases](https://github.com/codingEzio/DeparturePixelZh-OSS/releases)
+
+Both packages contain Standard and Compact, checksums, source records, and license notices. Upstream records for some icon rights differ; see [NOTICE.md](NOTICE.md) for component and trademark terms.
 
 ![DeparturePixelZh — English and Chinese pixel glyphs in one monospaced font](assets/departurepixelzh-social-card.png)
 

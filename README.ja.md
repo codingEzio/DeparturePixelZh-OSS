@@ -8,7 +8,9 @@
 
 英字と中国語のピクセル字形を、一つの等幅フォントにまとめました。英字は1セル、中国語の全角文字は2セルを使います。開発者向けアイコンも含みます。カラー絵文字はシステムフォントで表示します。
 
-このソースにはビルド済みフォントを公開していません。含まれるアイコンの再配布権は確認中です。[NOTICE.md](NOTICE.md) を参照してください。
+[デスクトップ TTF](https://github.com/codingEzio/DeparturePixelZh-OSS/releases/download/v0.1.1/DeparturePixelZh-0.1.1-desktop.zip) · [Web WOFF2](https://github.com/codingEzio/DeparturePixelZh-OSS/releases/download/v0.1.1/DeparturePixelZh-0.1.1-web.zip) · [すべてのリリース](https://github.com/codingEzio/DeparturePixelZh-OSS/releases)
+
+両パッケージに標準版と Compact、チェックサム、出典記録、ライセンス文書が含まれます。一部アイコンの上流ライセンス記録には相違があります。各コンポーネントと商標の条件は [NOTICE.md](NOTICE.md) を参照してください。
 
 ![DeparturePixelZh — 英字と中国語のピクセル字形を一つの等幅フォントに](assets/departurepixelzh-social-card.png)
 

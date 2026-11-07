@@ -4,7 +4,7 @@ Both downloads include the Standard and Compact families, source records, checks
 
 ## Desktop package: TTF
 
-Use the TTF files from a verified local build or extract a verified desktop archive.
+Download the [desktop TTF package](https://github.com/codingEzio/DeparturePixelZh-OSS/releases/download/v0.1.1/DeparturePixelZh-0.1.1-desktop.zip) and extract it, or use the files from a verified local build.
 
 - **macOS:** open each `.ttf` in Font Book and select Install.
 - **Windows:** right-click each `.ttf` and select Install.
@@ -23,7 +23,7 @@ Keep the notices with a native app's bundled font assets. An installed system co
 
 ## Web package: WOFF2
 
-Use the WOFF2 files from a verified local build or extract a verified web archive. Preserve the relative layout:
+Download the [web WOFF2 package](https://github.com/codingEzio/DeparturePixelZh-OSS/releases/download/v0.1.1/DeparturePixelZh-0.1.1-web.zip) and extract it, or use the files from a verified local build. Preserve the relative layout:
 
 ```text
 fonts/

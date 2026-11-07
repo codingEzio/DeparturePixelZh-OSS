@@ -8,7 +8,9 @@
 
 영문과 중국어 픽셀 글자를 하나의 고정폭 글꼴에 담았습니다. 영문은 한 칸, 중국어 전각 글자는 두 칸을 차지합니다. 개발자 아이콘도 포함합니다. 컬러 이모지는 시스템 글꼴을 사용합니다.
 
-이 소스에는 미리 빌드한 글꼴을 공개하지 않습니다. 포함된 아이콘의 재배포 권리는 검토 중입니다. [NOTICE.md](NOTICE.md)를 참고하세요.
+[데스크톱 TTF](https://github.com/codingEzio/DeparturePixelZh-OSS/releases/download/v0.1.1/DeparturePixelZh-0.1.1-desktop.zip) · [웹 WOFF2](https://github.com/codingEzio/DeparturePixelZh-OSS/releases/download/v0.1.1/DeparturePixelZh-0.1.1-web.zip) · [모든 릴리스](https://github.com/codingEzio/DeparturePixelZh-OSS/releases)
+
+두 패키지에는 기본형과 Compact, 체크섬, 출처 기록 및 라이선스 문서가 들어 있습니다. 일부 아이콘의 상위 라이선스 기록은 서로 다릅니다. 구성 요소와 상표 조건은 [NOTICE.md](NOTICE.md)를 참고하세요.
 
 ![DeparturePixelZh — 영문과 중국어 픽셀 글자를 하나의 고정폭 글꼴에](assets/departurepixelzh-social-card.png)
 

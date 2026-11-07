@@ -8,7 +8,9 @@
 
 Letras inglesas y caracteres chinos de estilo píxel en una sola fuente monoespaciada. Los caracteres latinos ocupan una celda; los caracteres chinos de ancho completo, dos. Incluye iconos para desarrolladores. Los emoji en color usan la fuente del sistema.
 
-Esta fuente aún no publica fuentes tipográficas precompiladas. Los derechos de redistribución de los iconos incluidos siguen en revisión; consulta [NOTICE.md](NOTICE.md).
+[TTF para escritorio](https://github.com/codingEzio/DeparturePixelZh-OSS/releases/download/v0.1.1/DeparturePixelZh-0.1.1-desktop.zip) · [WOFF2 para la web](https://github.com/codingEzio/DeparturePixelZh-OSS/releases/download/v0.1.1/DeparturePixelZh-0.1.1-web.zip) · [Todas las versiones](https://github.com/codingEzio/DeparturePixelZh-OSS/releases)
+
+Ambos paquetes incluyen Standard y Compact, sumas de comprobación, registros de origen y avisos de licencia. Los registros originales sobre los derechos de algunos iconos difieren; consulta [NOTICE.md](NOTICE.md) para conocer las condiciones de componentes y marcas.
 
 ![DeparturePixelZh — letras inglesas y caracteres chinos de estilo píxel en una fuente monoespaciada](assets/departurepixelzh-social-card.png)
 

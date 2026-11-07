@@ -8,7 +8,9 @@
 
 一款等宽字体，同时装下英文像素字和中文像素字。英文占一格，中文全角字占两格，也包含开发者图标。彩色 emoji 使用系统字体。
 
-此源码尚未发布预构建字体。所含图标的再分发权利仍在审查，详见 [NOTICE.md](NOTICE.md)。
+[桌面 TTF](https://github.com/codingEzio/DeparturePixelZh-OSS/releases/download/v0.1.1/DeparturePixelZh-0.1.1-desktop.zip) · [网页 WOFF2](https://github.com/codingEzio/DeparturePixelZh-OSS/releases/download/v0.1.1/DeparturePixelZh-0.1.1-web.zip) · [所有版本](https://github.com/codingEzio/DeparturePixelZh-OSS/releases)
+
+两个包均包含标准版与 Compact、校验和、来源记录及许可说明。部分图标的上游授权记录存在差异，组件和商标条款见 [NOTICE.md](NOTICE.md)。
 
 ![DeparturePixelZh：一款字体，中英像素等宽](assets/departurepixelzh-social-card.png)
 

@@ -1,6 +1,6 @@
 # DeparturePixelZh notices
 
-DeparturePixelZh and DeparturePixelZh Compact are modified font families. They combine Departure Mono 1.500 (Helena Zhang, 2022–2024), Cubic 11 1.451 (ACh-K and contributors; derived from JF Dot M+H 12 and M+ Bitmap Fonts), and Nerd Fonts Symbols Mono 3.5.1. The derived font files are intended for distribution under SIL Open Font License 1.1; the component-rights questions below remain open. Please preserve [OFL.txt](OFL.txt) and all files in [licenses/](https://github.com/codingEzio/DeparturePixelZh-OSS/tree/main/licenses) when redistributing or embedding them.
+DeparturePixelZh and DeparturePixelZh Compact are modified font families. They combine Departure Mono 1.500 (Helena Zhang, 2022–2024), Cubic 11 1.451 (ACh-K and contributors; derived from JF Dot M+H 12 and M+ Bitmap Fonts), and Nerd Fonts Symbols Mono 3.5.1. The derived font files are offered under SIL Open Font License 1.1; the component-rights questions below remain open. Please preserve [OFL.txt](OFL.txt) and all files in [licenses/](https://github.com/codingEzio/DeparturePixelZh-OSS/tree/main/licenses) when redistributing or embedding them.
 
 ## License scope
 
