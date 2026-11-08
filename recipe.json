@@ -81,5 +81,5 @@
   },
   "documents": ["builder-version", "MAINTENANCE.md", "README.md", "README.zh-Hans.md", "README.ja.md", "README.ko.md", "README.es.md", "docs/icon.svg", "docs/ARTWORK-LICENSE.md", "INSTALL.md", "CHANGELOG.md", "NOTICE.md", "OFL.txt", "assets/departurepixelzh-social-card.png", "web/departurepixelzh.css", "specimens/index.html", "specimens/outline-and-advance.svg"],
   "license_directory": "licenses",
-  "builder": {"repository": "X-DeparturePixelZhBuilder", "revision": "f7b77f9ba7e512aad2cc3ac0c2a22006e96c256b"}
+  "builder": {"repository": "X-DeparturePixelZhBuilder", "revision": "6081a8c359e03c229d6b55e8c4461ffdb113df1d"}
 }
